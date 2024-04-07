@@ -1,0 +1,26 @@
+body {
+    background-image: url("./puissance-4.jpg") ;
+    background-size: 90%;
+ 
+} 
+
+
+.cases {
+    background-color: white;
+}
+
+#jeu {
+    width: 50%;
+    margin-left: 25%;
+}
+h3 {
+    margin-left: 38%;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:blue;
+}
+h2 {
+    margin-left: 38%;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
